@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/Text">
+        <file>TextDocs/Countries.txt</file>
+        <file>TextDocs/FirstNamesFemale.txt</file>
+        <file>TextDocs/FirstNamesMale.txt</file>
+        <file>TextDocs/LastNames.txt</file>
+        <file>TextDocs/Profesions.txt</file>
+        <file>TextDocs/Religions.txt</file>
+        <file>TextDocs/Sports.txt</file>
+    </qresource>
+    <qresource prefix="/"/>
+    <qresource prefix="/Images">
+        <file>Images/Background.jpg</file>
+        <file>Images/Nebula.gif</file>
+        <file>Images/AntMan.gif</file>
+        <file>Images/BlackDwarf.gif</file>
+        <file>Images/CorvusGlaive.gif</file>
+        <file>Images/EbonyMaw.gif</file>
+        <file>Images/IronMan.gif</file>
+        <file>Images/Midnight.gif</file>
+        <file>Images/Spiderman.gif</file>
+        <file>Images/Thanos.gif</file>
+        <file>Images/Thor.gif</file>
+        <file>Images/Logo.png</file>
+        <file>Images/ThanosWin.gif</file>
+        <file>Images/AvengersWin.gif</file>
+    </qresource>
+</RCC>

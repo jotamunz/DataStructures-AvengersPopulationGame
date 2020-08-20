@@ -1,0 +1,50 @@
+Actor
+Archaeologist
+Architect
+Artist
+Astronomer
+Barber
+Cashier
+Chef
+Chemist
+Comedian
+Dancer
+Dentist
+Disc jockey
+Doctor
+Drug dealer
+Electrician
+Engineer
+Farmer
+Film director
+Firefighter
+Athlete
+Gardener
+Journalist
+Judge
+Lawyer
+Lifeguard
+Magician
+Mathematician
+Meteorologist
+Nurse
+Photographer
+Pilot
+Police
+Priest
+Professor
+Psychologist
+Receptionist
+Reporter
+Security guard
+Student
+Surgeon
+Teacher
+Tour guide
+Programer
+Builder
+Banker
+Barista
+Bodyguard
+Butcher
+Maid
